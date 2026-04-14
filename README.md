@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmR3b2M5M2k2b2I0ajJ0dnQwemN0aHgweTRhYXFicjh0ZXQ2cGJscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ubLIcHvitTa36/giphy.gif" width="100%" style="border-radius: 15px;" alt="Header" />
+<!--<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmR3b2M5M2k2b2I0ajJ0dnQwemN0aHgweTRhYXFicjh0ZXQ2cGJscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ubLIcHvitTa36/giphy.gif" width="100%" style="border-radius: 15px;" alt="Header" />-->
 
 
 <h1>Hi! I'm Eduardo ツ</h1>
