@@ -5,12 +5,12 @@
 
 <h1>Hi! I'm Eduardo ツ</h1>
 
-### Computer Engineering Student @ UNAM 🇲🇽
+### Computer Engineering Student @ UNAM & Data Science Student @ IIMAS 🇲🇽
 
 <b>Mexico City</b>
 
 <p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9370DB&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Full-Stack+Developer;GIS+%26+Geospatial+Systems;Python+%26+Data+Engineering" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9370DB&center=true&vCenter=true&width=500&lines=Data+Science+Student;Computer+Engineering+Student;Full-Stack+Developer;GIS+%26+Geospatial+Systems;Python+%26+Data+Engineering" />
 </p>
 
 <p>
