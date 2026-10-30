@@ -5,7 +5,7 @@
 
 <h1>Hi! I'm Eduardo ツ</h1>
 
-### Computer Engineering Student @ UNAM & Data Science Student @ IIMAS 🇲🇽
+### Data Science Student @ IIMAS & Computer Engineering Student @ UNAM 🇲🇽
 
 <b>Mexico City</b>
 
@@ -33,9 +33,9 @@
 
 ## About Me
 
-I'm a **Computer Engineering student at UNAM** 🇲🇽 focused on building systems that combine software engineering, data systems, and geospatial processing.
+I'm a **Data Science and Computer Engineering student at UNAM** 🇲🇽 focused on building systems that combine software engineering, data systems, and geospatial processing.
 
-I enjoy working at the intersection of **software engineering and geospatial / scientific data**.
+I enjoy working at the intersection of **machine learning/deep learning, software engineering and geospatial / scientific data**.
 
 My experience and interests include:
 
